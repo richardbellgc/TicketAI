@@ -22,7 +22,7 @@ centre = input("and finally,  which Centre are you based: ")
 
 
 body = (" USER:  " + user + " \n PROGRAM OR DEVICE:  " + problem + " \n ISSUE:  " + issue + " \n CONTACT: " + telephone + " \n CENTRE: " + centre)
-subject = ("New ticket from " + user)
+subject = ("New ticket from " + checkuser)
 #useremail = input("What is your email address? ")
 # #tel = input("What is your best contact telephone number? ")
 # #days = input(" and finally, what days do you work? ")
